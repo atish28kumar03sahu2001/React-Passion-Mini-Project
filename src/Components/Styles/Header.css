@@ -1,0 +1,40 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.H1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 25px;
+}
+.aa{
+    text-decoration: none;
+    margin-right: 25px;
+    margin-left: 25px;
+    color: rgb(121, 121, 172);
+    cursor: pointer;
+}
+.H2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 25px;
+    margin-left: -150px;
+}
+.LAND{
+    font-size: 25px;
+    font-weight: 500;
+    color: rgb(54, 54, 98);
+}
+.btnh3{
+    width: 150px;
+    height: 25px;
+    margin-right: 100px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: rgb(34, 34, 63);
+}
